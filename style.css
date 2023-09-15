@@ -6,7 +6,15 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+a{
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 body {
     background-color: #ffffff;
     height: 100vh;
